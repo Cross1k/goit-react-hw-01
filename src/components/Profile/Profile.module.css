@@ -1,7 +1,7 @@
 .profileCard {
   margin-top: 16px;
   max-width: 768px;
-  border-radius: 4px;
+  border-radius: 12px;
   border: 3px solid black;
   display: flex;
   flex-direction: column;
@@ -41,6 +41,7 @@
   background-color: lightgray;
   width: 100%;
   margin-top: 12px;
+  border-radius: 0 0 12px 12px;
 }
 
 .listItem {
