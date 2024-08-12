@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>
       <Profile
-        usernamename={userData.username}
+        username={userData.username}
         tag={userData.tag}
         location={userData.location}
         avatar={userData.avatar}
